@@ -11,7 +11,7 @@
 
 ### I'm [Rômulo Guedes](https://github.com/romulo059)
 
-- An enthusiast of new technologies and a Ruby fan.
+- An enthusiast of new technologies, a Ruby and Salesforce fan.
 - Passionate about changing people's lives through programming.
 - A Information Systems Undergraduate Student.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
