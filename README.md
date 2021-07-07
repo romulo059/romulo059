@@ -21,6 +21,6 @@
 ### About
 
 - **Learning :** Full-Stack Development :zap:
-- **Languages :** Ruby, C#, JavaScript
+- **Languages :** Apex, Java, C#, Ruby and Ruby on Rails, HTML, CSS, Bootstrap
 - **Hobbies :** Play Games :video_game:, Music :headphones: & Read :books:
 - **Fact :** First solve the problem, then write the code :heart:
